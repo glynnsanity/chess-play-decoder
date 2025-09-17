@@ -27,8 +27,8 @@ const Dashboard = () => {
     <div className="pb-20 px-4 pt-6 space-y-6">
       {/* Header */}
       <div className="bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl p-6 text-white">
-        <h1 className="text-2xl font-bold mb-2">Chess Analytics</h1>
-        <p className="text-indigo-100">Your performance insights</p>
+        <h1 className="text-2xl font-bold mb-2">Chess Analytics Dashboard</h1>
+        <p className="text-indigo-100">Your performance insights & stats</p>
       </div>
 
       {/* Main Metrics */}
